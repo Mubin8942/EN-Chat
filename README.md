@@ -1,6 +1,6 @@
 # En-Chat
 
-A new Flutter project.
+A real-time messaging flutter app project.
 
 ## Getting Started
 
